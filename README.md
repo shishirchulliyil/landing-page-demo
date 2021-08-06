@@ -16,3 +16,5 @@ This project is a simplified front end for a landing page - Sunny Side Up. It wa
 ### Screenshot
 
 ![](https://github.com/shishirchulliyil/landing-page-demo/blob/main/sunnyside-landing-page.png?raw=true)
+![](https://github.com/shishirchulliyil/landing-page-demo/blob/main/sunnyside-mobile-view.png?raw=true)
+![](https://github.com/shishirchulliyil/landing-page-demo/blob/main/active-menu.png?raw=true)
