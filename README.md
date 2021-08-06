@@ -1,6 +1,6 @@
 # Landing Page Demo
 
-- Demo: http://sunnyside-landing-page-shishir.surge.sh/
+- Demo: https://sunnyside-landingpage-shishir.surge.sh/
 
 This project is a simplified front end for a landing page - Sunny Side Up. It was created with HTML5, CSS3 and Vanilla Javascript. Feel free to contribute!
 
